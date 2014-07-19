@@ -1,0 +1,23 @@
+{
+  "name": "lgm-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bmordue/lgm-client",
+  "authors": [
+    "Ben Mordue <benmordue@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.6.1",
+    "ember-data": "~1.0.0-beta.4",
+    "jquery": "~2.1.1",
+    "handlebars": "~1.3.0"
+  }
+}
