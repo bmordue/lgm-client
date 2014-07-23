@@ -1,5 +1,5 @@
 App.Router.map(function() {
-  // put your routes here
+  this.resource('game', { path: '/'});
 });
 
 App.IndexRoute = Ember.Route.extend({
